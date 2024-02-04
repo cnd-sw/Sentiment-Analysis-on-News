@@ -30,11 +30,11 @@ analyzer = SentimentIntensityAnalyzer()
 
 
 
-consumer_key = '3tbscDjec2IiXDWZLTrjACXHn'
-consumer_secret = 'VAC317HQvkaCzYzUiRBFnC37PIHvQHBt5cSyzCUKB2L5q81GXn'
+consumer_key = 'your_customer_key'
+consumer_secret = 'your_customer_secret_key'
 
-access_token = '1110924553948225536-IovmDAjEz2mhB8RR4GlZR6Xlmoc6ob'
-access_token_secret = 'iXCU8rPqHHOMtfsXCdJAtiLSLBPpigAOV4DneKJFy8BwZ'
+access_token = 'your_access_token'
+access_token_secret = 'your_access_token_secret'
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
