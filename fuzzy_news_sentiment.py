@@ -31,7 +31,7 @@ yesterday = dt.date.today() - dt.timedelta(days = 1)
 yesterday = yesterday.strftime('%m-%d-%Y')
 
 nltk.download('punkt')
-user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:78.0) Gecko/20100101 Firefox/78.0'
+user_agent = 'your_user_agent_id'
 config = Config()
 config.browser_user_agent = user_agent
 config.request_timeout = 10
