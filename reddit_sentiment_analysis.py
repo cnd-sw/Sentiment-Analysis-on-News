@@ -24,9 +24,9 @@ import praw
 
 import praw
 
-reddit = praw.Reddit(client_id='vw6XelpoDs-a4R6pDVqOKA',
-                     client_secret='qIkRaDj-s_-o6fU_yYF4YtjtP75o5g',
-                     user_agent='Parking_Response_417')
+reddit = praw.Reddit(client_id='your_client_id',
+                     client_secret='your _client_secret_id',
+                     user_agent='your_username')
 
 headlines = set()
 
