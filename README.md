@@ -1,4 +1,4 @@
-# Sentiment-Analysis-on-News using APIs of Twitter, Reddit, and Google News with differnt algorithms
+# Sentiment-Analysis-on-News using APIs of Twitter, Reddit, and Google News with different algorithms
 
 Used various APIs of Twitter, Reddit, Yahoo News and Google News and applued differnt algorithms on them to compare which algorithm and Source of news is best for stocks related news.
 Natural Language Processing (NLP)(Sentiment Analysis) has been applied on each to classify the news in 3 differnt sections.
